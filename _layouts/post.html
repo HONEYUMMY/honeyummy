@@ -2,9 +2,9 @@
 layout: default
 ---
 <article id="post-page">
-	{% if post.image.feature %}
-		    <a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/img/{{ post.image.feature }}"></a>
-		  {% endif %}
+	{% if page.image.feature %}
+	  <img src="{{ site.github.url }}/img/{{ page.image.feature }}">
+	{% endif %}
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
