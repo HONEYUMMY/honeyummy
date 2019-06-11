@@ -1,11 +1,11 @@
 # Site settings
-title: "Emerald | A simple Jekyll blog"
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: "Honeyummy BLOG"
+description: "SNS 마케터 |  푸드 마케터로 살아가는 이야기"
+url: "https://www.honeyummy.me"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Honey kim"
+  email: "ekgus0805@gmail.com"
+  url: "https://www.honeyummy.me"
 
 # Build settings
 baseurl: /
