@@ -1,11 +1,11 @@
 # Site settings
 title: "Honeyummy BLOG"
 description: "SNS 마케터 |  푸드 마케터로 살아가는 이야기"
-url: "https://www.honeyummy.me"
+url: "http://www.honeyummy.me"
 author:
   name: "KIM DAHYUN"
   email: "ekgus0805@gmail.com"
-  url: "https://www.honeyummy.me"
+  url: "http://www.honeyummy.me"
 
 # Build settings
 baseurl: /
