@@ -1,5 +1,6 @@
 # Site settings
 title: "Honeyummy BLOG"
+tagline: SNS 마케팅과 음식
 description: "SNS 마케터 |  푸드 마케터로 살아가는 이야기"
 url: "http://honeyummy.me"
 author:
@@ -7,7 +8,7 @@ author:
   email: "ekgus0805@gmail.com"
   url: "http://honeyummy.me"
 
-# Build settings
+# Build settingscd
 baseurl: /
 markdown: kramdown
 permalink: /:title
