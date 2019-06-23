@@ -132,12 +132,11 @@ html, body {
   	display: inline-block;
   }
   img {
-  	max-height: 72px;
+  	max-height: 100px;
   	margin: 0 auto;
   	display: block;
   }
   h1 {
-  	font-family: 'Signika', sans-serif; //Emerald logo font
     font-weight: 600;
   }
   &:after {
@@ -200,7 +199,7 @@ img {
           border-radius: 4px;
 }
 
-img[title="Emerald"] {
+img[title="SNS and Food"] {
     box-shadow: 0 2px 6px #ddd;
   }
 

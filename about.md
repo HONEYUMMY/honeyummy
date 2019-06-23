@@ -1,21 +1,8 @@
 ---
 layout: page
-title: About Emerald
+title: About Honeyummy
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
-
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
-
-![Emerald](img/Emerald01.png "Emerald")
-
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
-
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+##### ABOUT
+SNS 광고대행사에서 근무하고 있다.
+콘텐츠 제작과 다양한 트렌드에 관심이 많다.
+특히 푸드 콘텐츠를 좋아하며 최근에는 뷰티까지 제작의 영역을 확대하고 있다.
