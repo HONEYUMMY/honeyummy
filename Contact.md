@@ -7,7 +7,6 @@ title: Contact
 
 ![ ](/img/thumbnail.png)
 
-:point_right: Instagram : @hyunni85
+<i class="fab fa-instagram"></i>  Instagram : @hyunni85
 
-:point_right: Mail : ekgus0805@gamil.com​
-
+<i class="far fa-envelope"></i> Mail : ekgus0805@gamil.com

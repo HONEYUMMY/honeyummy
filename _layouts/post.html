@@ -3,10 +3,8 @@ layout: default
 ---
 <article id="post-page">
 	{% if page.image.feature %}
-  <img src="{honeyummy.me }}/img/{{ ture }}">
 {% endif %}
 	{% if page.image.feature %}
-	  <img src="{{ site.github.url }}/img/{{ thumbnail.png }}">
 	{% endif %}
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
