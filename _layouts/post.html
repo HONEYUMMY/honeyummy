@@ -14,5 +14,10 @@ layout: default
 
 	</div>
 </article>
-
+<!-- Facebook Event Pixel Contents View -->
+<script>
+	fbq('track', 'ViewContent', {
+		post_title: '{{ page.title }}'
+	});
+</script>
 {% include disqus.html %}
